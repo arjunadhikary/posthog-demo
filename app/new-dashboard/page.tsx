@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState, useTransition } from "react";
+import { useEffect, useState } from "react";
 import posthog from "@/posthog.config";
 import { useDashboardVariantRedirect } from "../hooks/useDashboardVariantRedirect";
 
