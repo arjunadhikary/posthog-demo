@@ -1,0 +1,9 @@
+name = "your-worker-name"
+type = "javascript"
+
+account_id = "${CLOUDFLARE_ACCOUNT_ID}"
+workers_dev = true
+
+[env.production]
+zone_id = "${CLOUDFLARE_ZONE_ID}"
+route = "your-domain.com/*"
