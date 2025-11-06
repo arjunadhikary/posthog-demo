@@ -1,7 +1,10 @@
 # 🧠 PostHog + Next.js 15 Demo
 
-> This is a demo project showcasing how to use PostHog with the Next.js 15 App Router, including key features like:
+## 🔗 Link to the article
+[Posthog for developers](https://blogs.thearjun.com/posthog-for-developers)
 
+
+> This is a demo project showcasing how to use PostHog with the Next.js 15 App Router, including key features like:
 - Product analytics with autocapture
 - Setting up reverse proxy
 - Session replay
